@@ -1,12 +1,12 @@
 # Leandro Carpenter
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Observability+Specialist;Python+Developer;Node.js+%26+TypeScript&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SRE+Observability;Python+Developer;Node.js+%26+TypeScript&center=true&width=380&height=45">
 </div>
 
 ## About
 
-DevOps Engineer specializing in **Observability** and **Infrastructure Monitoring**. Focused on building reliable, scalable, and observable systems. Strong background in **Python** with expanding expertise in **Node.js** and **TypeScript** for modern observability solutions.
+SRE focused on **Observability** and **Infrastructure Monitoring**. Dedicated to building reliable, scalable, and observable systems. Experience with **Python**, **Node.js**, and **TypeScript** for modern observability solutions.
 
 ## Technical Stack
 
