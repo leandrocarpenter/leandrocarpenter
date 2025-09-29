@@ -30,13 +30,23 @@ Sou um profissional apaixonado por **DevOps** e **Observabilidade**, com foco em
 
 ## 🎯 Projetos em Destaque
 
-### 🔍 Observability Stack
-Implementações completas de stack de observabilidade usando:
-- **Kubernetes local** com Kind
-- **Prometheus** para métricas
-- **Grafana** para visualização
-- **Jaeger** para tracing distribuído
-- **Alertmanager** para alertas
+### 🔍 [Observability Stack K8s](https://github.com/leandrocarpenter/observability-stack-k8s)
+Stack completa de observabilidade em Kubernetes local:
+- **Kind** - Cluster Kubernetes local
+- **Prometheus** - Coleta de métricas
+- **Grafana** - Dashboards e visualização
+- **Jaeger** - Distributed tracing
+- **Alertmanager** - Gerenciamento de alertas
+- **Node.js sample app** - Aplicação instrumentada
+
+### 🚀 [TypeScript API Observability](https://github.com/leandrocarpenter/typescript-api-observability)
+API REST moderna em TypeScript com observabilidade completa:
+- **TypeScript** + **Express.js**
+- **OpenTelemetry** - Instrumentação automática
+- **Prometheus metrics** - Métricas customizadas
+- **Winston** - Logs estruturados
+- **Swagger/OpenAPI** - Documentação interativa
+- **Jest** - Testes automatizados
 
 ## 📊 GitHub Stats
 
